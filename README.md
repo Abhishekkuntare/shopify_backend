@@ -1,4 +1,4 @@
-<!-- 
+
 Provide clear instructions on how to set up and run the app locally
 1. git clone <repository_url>
 2. cd <repository_directory>
@@ -60,4 +60,4 @@ id: ID of the order to delete
 Response:
 Status: 204 No Content
 
-Similar for the orders -->
+Similar for the orders
