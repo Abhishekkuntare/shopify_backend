@@ -64,7 +64,6 @@ Similar for the orders
 
 
 LINKS-
-
 Live link: https://shopfiy.netlify.app/
 backend live Link:  https://shopify-backend-three.vercel.app/
 Git Frontend- https://github.com/Abhishekkuntare/shopify_frontend

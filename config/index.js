@@ -8,6 +8,6 @@ module.exports = {
     apiSecret: process.env.SHOPIFY_API_SECRET,
     scopes: process.env.SHOPIFY_SCOPES.split(","),
     shopName: process.env.SHOPIFY_SHOP,
-    shopToken:process.env.SHOPIFY_TOKEN
+    shopToken: process.env.SHOPIFY_TOKEN,
   },
 };
